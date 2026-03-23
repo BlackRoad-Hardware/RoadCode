@@ -1,3 +1,11 @@
+# RoadCode
+
+> Canonical RoadCode workspace and automation hub for BlackRoad-Hardware.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Hardware](https://github.com/BlackRoad-Hardware)
+
+---
+
 # BlackRoad-Hardware — RoadCode
 
 > Fleet & IoT division of [BlackRoad OS, Inc.](https://github.com/BlackRoad-OS-Inc)
